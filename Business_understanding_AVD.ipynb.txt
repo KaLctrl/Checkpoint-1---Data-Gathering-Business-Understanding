@@ -1,0 +1,152 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "collapsed_sections": [
+        "m9PM2Kaefh6N",
+        "TBOArHmRhGir",
+        "SvjyqGNHnqs-",
+        "6yyM4zeCn4dB"
+      ]
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# Business Understanding"
+      ],
+      "metadata": {
+        "id": "m9PM2Kaefh6N"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Bunuh diri merupakan permasalahan sosial yang serius di India dan dunia. Dengan populasi besar dan berbagai tantangan sosial, ekonomi, serta psikologis, India mencatat angka bunuh diri yang signifikan setiap tahunnya. Analisis data bunuh diri dapat memberikan wawasan mendalam tentang faktor-faktor penyebab serta pola yang muncul dalam berbagai kategori demografi."
+      ],
+      "metadata": {
+        "id": "GFHKzIigugUV"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# Tujuan Bisnis"
+      ],
+      "metadata": {
+        "id": "TBOArHmRhGir"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "1. Mengidentifikasi Tren dan Pola Bunuh Diri\n",
+        "\n",
+        "   Menelusuri tren bunuh diri berdasarkan                        tahun, usia, jenis kelamin, dan profesi.\n",
+        "   Memahami distribusi kasus berdasarkan kategori penyebab bunuh diri yang tercatat.\n",
+        "\n",
+        "\n",
+        "\n",
+        "2. Menganalisis Faktor Penyebab\n",
+        "\n",
+        "   Mengidentifikasi hubungan antara faktor sosial-ekonomi dengan tingkat bunuh diri.\n",
+        "   Menggunakan wawasan ini untuk mendukung program pencegahan bunuh diri.\n",
+        "\n",
+        "\n",
+        "\n",
+        "3. Memberikan Rekomendasi untuk Pengambilan Keputusan\n",
+        "\n",
+        "   Membantu pemerintah dan organisasi kesehatan dalam merancang kebijakan pencegahan yang lebih efektif."
+      ],
+      "metadata": {
+        "id": "kU2DTE7nUA12"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# Penilaian Situasi"
+      ],
+      "metadata": {
+        "id": "17frNenWnf5Y"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Untuk mencapai tujuan tersebut, diperlukan pemahaman mendalam tentang:\n",
+        "\n",
+        "Kondisi sosial-ekonomi di India yang mempengaruhi tingkat bunuh diri.\n",
+        "\n",
+        "Kategori penyebab bunuh diri, misalnya tekanan finansial, tekanan akademik, atau faktor keluarga.\n",
+        "\n",
+        "Distribusi geografis untuk mengetahui apakah ada daerah dengan tingkat kasus lebih tinggi."
+      ],
+      "metadata": {
+        "id": "A1FN86syUdWM"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# Tujuan Analitik"
+      ],
+      "metadata": {
+        "id": "SvjyqGNHnqs-"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Eksplorasi dataset untuk memahami struktur dan kelengkapan data.\n",
+        "\n",
+        "Visualisasi data untuk mengidentifikasi pola dan tren bunuh diri.\n",
+        "\n",
+        "Analisis korelasi untuk menemukan faktor utama yang berkontribusi terhadap peningkatan angka bunuh diri."
+      ],
+      "metadata": {
+        "id": "leDx2cplUmny"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# Perencanaan Proyek"
+      ],
+      "metadata": {
+        "id": "6yyM4zeCn4dB"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "1. Data Understanding: Memahami struktur dan kualitas dataset.\n",
+        "\n",
+        "\n",
+        "2. Data Preparation: Membersihkan dan mempersiapkan data untuk analisis lebih lanjut.\n",
+        "\n",
+        "\n",
+        "3. Analisis Data: Menerapkan teknik eksplorasi dan pemodelan untuk mengidentifikasi pola dalam data.\n",
+        "\n",
+        "\n",
+        "4. Visualisasi dan Dashboarding: Menyajikan hasil analisis dalam bentuk yang mudah dipahami.\n",
+        "\n",
+        "\n",
+        "5. Insight & Action: Memberikan rekomendasi kebijakan berdasarkan hasil analisis."
+      ],
+      "metadata": {
+        "id": "OMt0yUhaUx6W"
+      }
+    }
+  ]
+}
